@@ -1,3 +1,14 @@
+0.10.5 (2024-03-14)
+-------------------
+
+* [ci]: remove bionic and xenial, add focal arm64 and jammy
+* update cmake files for better version handling
+
+0.10.4 (2020-12-11)
+-------------------
+
+* [ci]: drop trusty, add focal
+
 0.10.3 (2020-11-27)
 -------------------
 
